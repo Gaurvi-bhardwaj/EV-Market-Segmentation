@@ -5,3 +5,6 @@ Dataset collection:
 [dataset](https://www.kaggle.com/code/prateekiet/electric-vehicle-analysis)
 
 For Data preprocessing, the datasets are cleaned,processed and merged to analysis for further steps.
+
+Refrences:
+[electric vehicle trend](https://evreporter.com/indias-electric-vehicle-sales-trend-december-2022/)
